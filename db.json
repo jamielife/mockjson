@@ -112,49 +112,6 @@
             "numberOfComments": 4,
             "numberOfRetweets": 11,
             "numberOfLikes": 99
-        },
-        {
-            "id": "t4",
-            "user": {
-                "id": "u1",
-                "username": "gomeMan2022",
-                "name": "Bradley",
-                "image": "https://picsum.photos/250"
-            },
-            "createdAt": "2020-08-27T12:00:00.000Z",
-            "content": "Turpis massa tincidunt dui ut ornare lectus sit amet est. Velit laoreet id donec ultrices tincidunt arcu non.",
-            "numberOfComments": 4,
-            "numberOfRetweets": 11,
-            "numberOfLikes": 99
-        },
-        {
-            "id": "4t5",
-            "user": {
-                "isVIP": true,
-                "id": "u1",
-                "username": "OverlyProfessional",
-                "name": "T. Fischer",
-                "image": "https://picsum.photos/150"
-            },
-            "createdAt": "2020-08-27T12:00:00.000Z",
-            "content": "Hey Hey Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "numberOfComments": 4,
-            "numberOfRetweets": 11,
-            "numberOfLikes": 99
-        },
-        {
-            "id": "4t6",
-            "user": {
-                "id": "u1",
-                "username": "maddisonWanderer",
-                "name": "Madison Jeffersonson",
-                "image": "https://picsum.photos/50"
-            },
-            "createdAt": "2020-08-27T12:00:00.000Z",
-            "content": "Vacation, all I ever wanted.",
-            "numberOfComments": 4,
-            "numberOfRetweets": 11,
-            "numberOfLikes": 99
         }
     ],
     "comments" : [
@@ -204,73 +161,6 @@
                 "isVIP": true
             },
             "content": "Had an amazing surf session this morning"
-        },
-        {
-            "id": "333333333",
-            "createdAt": "2023-04-26T12:00:00.000Z",
-            "user": {
-                "id": "123456789",
-                "name": "Jane Smith",
-                "username": "janesmith",
-                "image": "https://picsum.photos/200"
-            },
-            "content": "Excited to announce that I will be speaking at the upcoming tech conference in San Francisco! 🎉 #womenintech"
-        },
-        {
-            "id": "t1",
-            "user": {
-                "id": "u1",
-                "username": "gomeMan2022",
-                "name": "Bradley",
-                "image": "https://picsum.photos/250"
-            },
-            "createdAt": "2020-08-27T12:00:00.000Z",
-            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {
-            "id": "t2",
-            "user": {
-                "id": "u1",
-                "username": "gomeMan2022",
-                "name": "Bradley",
-                "image": "https://picsum.photos/300"
-            },
-            "createdAt": "2020-08-27T12:00:00.000Z",
-            "content": "Hey Hey Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {
-            "id": "t4",
-            "user": {
-                "id": "u1",
-                "username": "gomeMan2022",
-                "name": "Bradley",
-                "image": "https://picsum.photos/350"
-            },
-            "createdAt": "2020-08-27T12:00:00.000Z",
-            "content": "Turpis massa tincidunt dui ut ornare lectus sit amet est. Velit laoreet id donec ultrices tincidunt arcu non."
-        },
-        {
-            "id": "4t5",
-            "user": {
-                "id": "u1",
-                "username": "OverlyProfessional",
-                "name": "T. Fischer",
-                "image": "https://picsum.photos/400",
-                "isVIP": true
-            },
-            "createdAt": "2020-08-27T12:00:00.000Z",
-            "content": "Hey Hey Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {
-            "id": "4t6",
-            "user": {
-                "id": "u1",
-                "username": "maddisonWanderer",
-                "name": "Madison Jeffersonson",
-                "image": "https://picsum.photos/425"
-            },
-            "createdAt": "2020-08-27T12:00:00.000Z",
-            "content": "Vacation, all I ever wanted."
         }
     ]    
 }
