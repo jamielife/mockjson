@@ -49,40 +49,6 @@
             "numberOfRetweets": 5,
             "numberOfLikes": 25,
             "impressions": 500
-        },
-        {
-            "id": "222222222",
-            "createdAt": "2023-04-27T19:45:00.000Z",
-            "user": {
-                "isVIP": true,
-                "id": "987654321",
-                "name": "Jim Beam",
-                "username": "jbeammy",
-                "image": "https://picsum.photos/400"
-            },
-            "content": "Had an amazing surf session this morning",
-            "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/8.jpg",
-            "numberOfComments": 10,
-            "numberOfRetweets": 20,
-            "numberOfLikes": 100,
-            "impressions": 1000
-        },
-        {
-            "id": "333333333",
-            "createdAt": "2023-04-26T12:00:00.000Z",
-            "user": {
-                "isVIP": true,
-                "isFriend": true,
-                "id": "123456789",
-                "name": "Jane Smith",
-                "username": "janesmith",
-                "image": "https://picsum.photos/300"
-            },
-            "content": "Excited to announce that I will be speaking at the upcoming tech conference in San Francisco! 🎉 #womenintech",
-            "numberOfComments": 5,
-            "numberOfRetweets": 10,
-            "numberOfLikes": 50,
-            "impressions": 1000
         }
     ],
     "comments" : [
@@ -120,18 +86,6 @@
                 "image": "https://picsum.photos/100"
             },
             "content": "Just had a great workout at the gym! 💪 #fitness #healthylifestyle"
-        },
-        {
-            "id": "df9g8735sr",
-            "createdAt": "2023-04-27T19:45:00.000Z",
-            "user": {
-                "id": "987654321",
-                "name": "Jim Beam",
-                "username": "jbeammy",
-                "image": "https://picsum.photos/150",
-                "isVIP": true
-            },
-            "content": "Had an amazing surf session this morning"
         }
     ]    
 }
